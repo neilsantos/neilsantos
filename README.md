@@ -1,13 +1,7 @@
 <div align="center">
     
 ### Welcome to my profile 
-    
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/incodewetrust/) 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neilsantos&theme=blue-green" alt="GitHub Stats" height="230">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neilsantos&theme=blue-green" alt="Top Languages" height="230">
-</p>
 
 <div style="display: inline_block"><br>
 
@@ -22,7 +16,7 @@
       
 </div>
 
-
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/incodewetrust/) 
 
 
 
